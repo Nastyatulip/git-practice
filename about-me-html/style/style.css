@@ -1,0 +1,29 @@
+body {
+  font-family: Palatino Linotype;
+  background-color: #efeded;
+  margin: 20px;
+}
+
+h1 {
+  color: #5c5c5c;
+}
+
+.main-header-text {
+  color: #38179b !important;
+  text-transform: uppercase;
+}
+
+img {
+  border: 2px solid #999;
+  margin: 10px 0;
+}
+
+nav a {
+  margin-right: 10px;
+  text-decoration: none;
+  color: #0066cc;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
